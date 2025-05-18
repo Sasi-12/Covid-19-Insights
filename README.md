@@ -24,7 +24,7 @@ This project is a comprehensive **Power BI Dashboard** that visualizes the globa
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](images/dashboard_screenshot.png)
+![Dashboard Preview](https://github.com/Sasi-12/Covid-19-Insights/commit/b052b7f9b418c11f24c25dc0f7779c42747e0605)
 
 > 📌 Make sure to add a screenshot of your dashboard in the `images/` folder of your repo and update the image path above accordingly.
 
